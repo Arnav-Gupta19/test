@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
         <NoteIcon />
-        NoteNest
+        Note
       </h1>
     </header>
   );
